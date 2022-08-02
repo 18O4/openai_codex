@@ -1,4 +1,5 @@
 # make a tic tac toe game using pygame module
+# result: snake game
 
 import pygame
 import os
